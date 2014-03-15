@@ -1,3 +1,10 @@
+////////////////////////
+//Version: 1.0
+
+/*
+ * Strong mode
+ * 15 bits with salt
+ */
 ---- mail box ----
 QQ: 
     a stupid tool 3111
@@ -7,6 +14,12 @@ gmail for work:
     my real email 2223
 126 mail:
     mail for life 3332
+
+/*
+ * normal mode
+ * 10 bits with salt
+ */
+---- mail box ----
 163 mail:
     mail for team 1333
 
@@ -87,9 +100,16 @@ taobao(login):
 PwnedList.com(gmail):
     security check 21222321
 
+---- others ----
+My Wireless Router(TP-Link admin):
+    just a router 312332133 //simple, no salt!
+
+/*
+ * version: 2.0
+ * new style salt, from the first bit
+ * 10 bits without addition salt
+ */
 ---- recruitment ----
-//Note: v2.0 password managing function
-//      First bit without salt
 CVTE(scutlaoyi):
     first one + 1232111
 51job(scutlaoyi):
@@ -97,6 +117,3 @@ CVTE(scutlaoyi):
 job592.com:
     find some infomation + 21231123
 
----- others ----
-My Wireless Router(TP-Link admin):
-    just a router 312332133 //simple, no salt!
