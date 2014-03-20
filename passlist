@@ -107,7 +107,7 @@ My Wireless Router(TP-Link admin):
 /*
  * version: 2.0
  * new style salt, from the first bit
- * 10 bits without addition salt
+ * 10 bits without additional salt
  */
 ---- recruitment ----
 CVTE(scutlaoyi):
@@ -117,5 +117,5 @@ CVTE(scutlaoyi):
 job592.com:
     find some infomation + 21231123
 Huawei:
-    a famous company + 1233323
+    a famous company + 1233323 //with additional salt
 
