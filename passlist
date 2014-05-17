@@ -2,9 +2,11 @@
 //Version: 1.0
 
 /*
- * Strong mode
- * 15 bits with salt
+ * Password length:     15bit
+ * Public salt version: First generation
+ * Second step salt:    Single
  */
+
 ---- mail box ----
 QQ: 
     a stupid tool 3111
@@ -15,20 +17,25 @@ gmail for work:
 126 mail:
     mail for life 3332
 
+
+////////////////////////
+//Version: 3.0
 /*
- * normal mode
- * 10 bits with salt
+ * Password length:     10bit
+ * Public salt version: Second generation 
+ * Second step salt:    Independent
  */
+
 ---- mail box ----
-163 mail:
-    mail for team 1333
+mail of 163:
+    mail for team 12333
 
 ---- shopping ----
 amazon(126): 
     shopping center 31112
-360buy(126):
+jd(126):
     buy something before 32221
-    check when paying 132333231 //paying password
+    check when paying 23333 //pay
 dangdang(126):
     a little expensive 33331
 vancl(qq):
@@ -42,9 +49,9 @@ csdn(126):
 weibo(qq):
     chat with some strangers 22221
 youku(qq):
-    watch a video 111111
+    watch a video 11111
 cnblogs(126):
-    dont use it any more 222222
+    dont use it any more 22222
 移动叔叔(126):
     mobile uncle 12333123
    
