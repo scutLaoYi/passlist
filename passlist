@@ -50,8 +50,6 @@ weibo(qq):
     chat with some strangers 22221
 youku(qq):
     watch a video 11111
-移动叔叔(126):
-    mobile uncle 33323
    
 ---- personal tool ----
 github(you know):
@@ -60,15 +58,33 @@ tower(126):
     team sharing 21221
 OSChina(126):
     open source 23233
-百词斩: ----
-    word killer 13111211
 apple id:
-    my apple id 32231222123 //special salt for apple
-    
----- online disk ----
+    my apple id 22222 
+    rescue code 12111 //five code per question:friend, work, parent
+
+////////////////////////
+//Version: 3.0c
+/*
+ * Password length:     10bit
+ * Public salt version: Third generation 
+ * Second step salt:    Single    
+ */
+百词斩: 
+    word killer 123123
 baidu(126):
-	data center 133231313 
-    
+	data center 133231 
+51job(scutlaoyi):
+    job searching 132133 
+
+
+////////////////////////
+//Version: 1.0alpha
+/*
+ * Password length:     10bit
+ * Public salt version: First generation 
+ * Second step salt:    Single    
+ *
+   
 ---- oj ----
 hdoj(SZY1993):
     szy is my name 22221
@@ -110,19 +126,4 @@ PwnedList.com(gmail):
 ---- others ----
 My Wireless Router(TP-Link admin):
     just a router 312332133 //simple, no salt!
-
-/*
- * version: 2.0
- * new style salt, from the first bit
- * 10 bits without additional salt
- */
----- recruitment ----
-CVTE(scutlaoyi):
-    first one + 1232111
-51job(scutlaoyi):
-    job searching + 21232212
-job592.com:
-    find some infomation + 21231123
-Huawei:
-    a famous company + 1233323 //with additional salt
 
