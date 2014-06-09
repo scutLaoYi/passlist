@@ -74,6 +74,8 @@ coinwallet.co:
 	coin wallet 22123
 coinrelay.com:
 	coinrelay is better 12113
+wallet password:
+    my offline wallet 31323
 
 ---- Domain Service ----
 go daddy(gmail):
@@ -87,7 +89,7 @@ tk(gmail):
 /*
  * Password length:     10bit
  * Public salt version: Third generation 
- * Second step salt:    Single    
+ * Second step salt:    No    
  */
 百词斩: 
     word killer 123123
