@@ -118,9 +118,9 @@ U-Shield:
 	[pass for online bank] 21222321233222 //no salt either
 ABChina:
     money from home 1311301211 // eight bits, without salt!
-alipay(login):
+alipay(yahoo):
     online shopping 12211131211
-taobao(login):
+taobao(126):
     online shopping 3221232212 // 14 bits!
 
 ---- security ----
