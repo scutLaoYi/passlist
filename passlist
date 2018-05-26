@@ -31,6 +31,8 @@ yahoo:
 ---- mail box ----
 buffer mail:
     mail to be dangerous 12311 
+pigsa @ protonmail:
+    mail for my new apple account 22122
 
 ---- shopping ----
 amazon(yahoo): 
@@ -38,20 +40,12 @@ amazon(yahoo):
 jd(yahoo):
     buy something before 32221
     check when paying 23333 //pay
-dangdang(126):
-    a little expensive 33331
 12306(gmail_public):
     new password 23323
     
 ---- social communication ----
 twitter(gmail):
     a simple bird 22221
-csdn(126):
-    just a place to talk 21112
-weibo(qq):
-    chat with some strangers 22221
-youku(qq):
-    watch a video 11111
 ins_tagram(gmail):
     beautiful pictures 31333
    
@@ -62,7 +56,7 @@ bitbucket(gmail):
     private repo 31211
 dropbox(gmail):
     data storage 12223
-apple id(gmail):
+apple id(gmail or protonmail):
     my apple id 11111 
     rescue code 12111 //five code per question:friend, work, parent
 
@@ -79,18 +73,6 @@ tk(gmail):
 ---- Certificate ----
 key:
     my private cert 21311
-
-////////////////////////
-//Version: 3.0c
-/*
- * Password length:     10bit
- * Public salt version: Third generation 
- * Second step salt:    No    
- */
-baidu(126):
-    data center 133231 
-51job(scutlaoyi):
-    job searching 132133 
 
 
 ////////////////////////
@@ -122,12 +104,3 @@ alipay(yahoo):
     online shopping 12211131211
 taobao(126):
     online shopping 3221232212 // 14 bits!
-
----- security ----
-PwnedList.com(gmail):
-    security check 21222321
-
----- others ----
-My Wireless Router(TP-Link admin):
-    just a router 312332133 //simple, no salt!
-
