@@ -106,5 +106,8 @@ ABChina:
     money from home 1311301211 // eight bits, without salt!
 alipay(yahoo):
     online shopping 12211131211
-taobao(126):
+taobao(yahoo):
     online shopping 3221232212 // 14 bits!
+
+Velo(gmail):
+    velo 211131211 //3rd gen with idpd salt
