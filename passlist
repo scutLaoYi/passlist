@@ -28,6 +28,10 @@ yahoo:
  * Second step salt:    Independent
  */
 
+---- password tools ----
+authy:
+    two fa tools 11111
+
 ---- mail box ----
 buffer mail:
     mail to be dangerous 12311 
