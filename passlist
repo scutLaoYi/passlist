@@ -19,7 +19,6 @@ gmail for work:
 yahoo:
     my new email 3333
 
-
 ////////////////////////
 //Version: 3.0
 /*
@@ -31,6 +30,9 @@ yahoo:
 ---- password tools ----
 authy:
     two fa tools 11111
+lastpass:
+    my last password 23122
+
 
 ---- mail box ----
 buffer mail:
@@ -74,17 +76,6 @@ simple note(yahoo):
 wallet password:
     my offline wallet 31323
 
----- Domain Service ----
-go daddy(gmail):
-    go daddy domain service 32333 //username: octo
-tk(gmail):
-	free domain 33313
-
----- Certificate ----
-key:
-    my private cert 21311
-
-
 ////////////////////////
 //Version: 1.0alpha
 /*
@@ -92,28 +83,7 @@ key:
  * Public salt version: First generation 
  * Second step salt:    Single    
  *
-   
----- oj ----
-hdoj(SZY1993):
-    szy is my name 22221
-poj(qq):
-    peking university 33332
-codeforces(gmail):
-    oj from russia 1112111
-UVAoj:
-    now 12223 //no salt.
-
----- bank ----
-online bank:
-	card number 3313231333233 //no salt dear
-U-Shield:
-	[pass for online bank] 21222321233222 //no salt either
-ABChina:
-    money from home 1311301211 // eight bits, without salt!
 alipay(yahoo):
     online shopping 12211131211
 taobao(yahoo):
     online shopping 3221232212 // 14 bits!
-
-Velo(gmail):
-    velo 211131211 //3rd gen with idpd salt
