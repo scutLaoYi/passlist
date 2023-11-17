@@ -28,7 +28,7 @@ yahoo:
  */
 
 ---- password tools ----
-authy:
+authy: //already changed to password manager
     two fa tools 11111
 lastpass:
     my last password 23122
